@@ -5,6 +5,11 @@
 <br>interns as project manager. Also, I took part in this project as backend developer. In this context, I developed a web app for GİB.
 <br>In addition, I was admitted to GelecektekiSen community. I’m also interested in Web 3.0 and blockchain. Now, I have been currently improving myself on Java Spring framework.
 
+<br>✉️  You can reach me via melih.sisman@hotmail.com
+<br>🚀  I'm currently working on Ernst&Young Turkey
+<br>🧠  I'm learning Java, SAP, Spring
+<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imelihsisman/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://i-melih-sisman.medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20485877) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/c/OyuncununKanal) 
