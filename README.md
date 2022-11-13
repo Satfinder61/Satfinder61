@@ -6,7 +6,7 @@
 <br>In addition, I was admitted to GelecektekiSen community. I’m also interested in Web 3.0 and blockchain. Now, I have been currently improving myself on Java Spring framework.
 
 <br>✉️  You can reach me via melih.sisman@hotmail.com
-<br>🚀  I'm currently working on Ernst&Young Turkey
+<br>🚀  I'm currently working on GelecektekiSen Türkiye
 <br>🧠  I'm learning Java, SAP, Spring
 <br>
 
