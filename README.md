@@ -1,4 +1,6 @@
+![github-header-image](https://user-images.githubusercontent.com/116385274/202920067-e2973836-17d7-4ea8-9aae-58e6c0d14c96.png)
 # 💫 About Me:
+
 <br>I am studying computer engineering at TED University; I am a 4th year student. I did my internship in two places;
 <br>Voluntarily at Yapı Kredi and compulsory at PTT; I took part in database design and development processes at PTT,
 <br>and I designed a project at Yapı Kredi. After, I joined a long-term internship program at GİB, I led 12 software engineer
