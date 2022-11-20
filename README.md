@@ -1,4 +1,5 @@
-![github-header-image](https://user-images.githubusercontent.com/116385274/202920067-e2973836-17d7-4ea8-9aae-58e6c0d14c96.png)
+![github-header-image (2)](https://user-images.githubusercontent.com/116385274/202920106-111fc84e-096c-4bdb-90d9-a0c8e67403d8.png)
+
 # 💫 About Me:
 
 <br>I am studying computer engineering at TED University; I am a 4th year student. I did my internship in two places;
